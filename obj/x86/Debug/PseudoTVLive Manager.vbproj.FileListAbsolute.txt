@@ -1,0 +1,34 @@
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\PseudoTV Manager.exe.config
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\obj\x86\Debug\PseudoTVLive Manager.vbprojResolveAssemblyReference.cache
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\obj\x86\Debug\PseudoTV_Manager.Form1.resources
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\obj\x86\Debug\PseudoTV_Manager.Form2.resources
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\obj\x86\Debug\PseudoTV_Manager.Form3.resources
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\obj\x86\Debug\PseudoTV_Manager.Form4.resources
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\obj\x86\Debug\PseudoTV_Manager.Form5.resources
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\obj\x86\Debug\PseudoTV_Manager.Form6.resources
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\obj\x86\Debug\PseudoTV_Manager.Form7.resources
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\obj\x86\Debug\PseudoTV_Manager.Form8.resources
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\obj\x86\Debug\PseudoTV_Manager.Resources.resources
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\obj\x86\Debug\PseudoTVLive Manager.vbproj.GenerateResource.Cache
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\PseudoTV Manager.exe.manifest
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\PseudoTV Manager.application
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\PseudoTV Manager.exe
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\PseudoTV Manager.pdb
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\PseudoTV Manager.xml
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\MySql.Data.dll
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\System.Data.dll
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\System.Data.SQLite.dll
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\System.Deployment.dll
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\System.dll
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\System.Drawing.dll
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\System.Transactions.dll
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\System.Windows.Forms.dll
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\System.Xml.dll
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\bin\Debug\System.Xml.Linq.dll
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\obj\x86\Debug\PseudoTV Manager.exe.manifest
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\obj\x86\Debug\PseudoTV Manager.application
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\obj\x86\Debug\PseudoTV Manager.exe
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\obj\x86\Debug\PseudoTV Manager.xml
+C:\Users\pberryman\Documents\GitHub\PseudoTVLive_Manager\obj\x86\Debug\PseudoTV Manager.pdb

@@ -1,0 +1,1 @@
+0 | C:\Users\pberryman\AppData\Roaming\XBMC\userdata\Database\MyVideos78.db | C:\Users\pberryman\AppData\Roaming\XBMC\userdata\addon_data\script.pseudotv.live\settings2.xml
